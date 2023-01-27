@@ -122,7 +122,7 @@
 			]
 		}
 	],
-	"Hacked Games": [{
+	"Font": [{
 		"name":"FileSwitcherX",
 		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
 		"version":"2.20.3",
@@ -130,7 +130,7 @@
 		"bundleID": "com.miniclip.agar.io",
 		"category": "Hacked Games"
 	}],
-	"Emulators": [{
+	"All in one": [{
 		"name": "iNDS",
 		"version": "1.10.8",
 		"icon": "https://iosninja.io/img/ipas/inds.png",
