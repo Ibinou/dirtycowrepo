@@ -65,8 +65,8 @@
 		],
 		"bundleID": "com.frontierdesign.videostar",
 		"appstore": "com.frontierdesign.videostar"
-	}],
-	"Jailbreaks": [{
+	},      ]
+	{
 			"name": "TrollLock (Reborn)",
 			"version": "1.1.6",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
