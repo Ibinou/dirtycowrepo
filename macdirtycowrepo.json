@@ -67,7 +67,7 @@
 		"appstore": "com.frontierdesign.videostar"
 	}],
 	"Jailbreaks": [{
-			"name": "Taurine",
+			"name": "TrollLock (Reborn)",
 			"version": "1.1.6",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
 			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
@@ -85,7 +85,7 @@
 			]
 		},
 		{
-			"name": "Odyssey",
+			"name": "PrefsChanger",
 			"version": "1.4.2",
 			"icon": "https://theodyssey.dev/assets/images/icon.png",
 			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
@@ -103,7 +103,7 @@
 			]
 		},
 		{
-			"name": "unc0ver",
+			"name": "NoCameraSound",
 			"version": "8.0.2",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
 			"down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
