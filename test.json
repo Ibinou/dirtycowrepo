@@ -20,8 +20,7 @@
 		"down": "https://ipogo.app/download/ipogo-2.8.0.ipa",
 		"category": "All in one",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
+                "icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/Cowabunga.png", 
 	}, {
 		"name": "FileSwitcherX",
 		"version": "0.257.1",
@@ -39,20 +38,13 @@
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client",
 		"appstore": "com.spotify.client",
-		"debs": [
-			"https://usescarlet.com/debs/Spotilife.dylib",
-			"https://usescarlet.com/debs/Sposify.dylib",
-			"https://usescarlet.com/debs/SposifyFix.dylib"
-		],
-		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
+                "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",   
 	}, {
 		"name": "WDBFontOverwrite",
 		"version": "187.0",
-		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
+		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweak",
-		"bundleID": "com.rhino.InstagramApp",
-		"appstore": "com.burbn.instagram"
 	}, {
 		"name": "TrollLock (reborn)",
 		"version": "8.3.2",
