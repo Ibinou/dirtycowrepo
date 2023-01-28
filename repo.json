@@ -31,7 +31,7 @@
 	}, {
 		"name": "CCEnabler",
 		"version": "8.6.42",
-		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/CCEnabler%20(2).ipa?raw=true",
 		"category": "Tweak",
 		"description": "Disable and enable modules in the Control Center.",
                 "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",   
