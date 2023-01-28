@@ -53,7 +53,7 @@
 			"name": "PrefsChanger",
 			"version": "1.1.6",
 			"icon": "https://senumy.com/wp-content/uploads/2023/01/PrefsChanger.jpg",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+			"down": "https://github.com/Ibinou/reposcarlet/blob/main/PrefsChanger.ipa?raw=true",
 			"dev": "AppInstalleriOS",
 			"category": "Tweak",
 			"description": "Enable supervised mode, LockScreen Footnote, debug settings etc.",
