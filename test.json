@@ -1,7 +1,7 @@
 {
 	"META": {
-		"repoName": "Scarlet Repo",
-		"repoIcon": "https://usescarlet.com/favicon.png"
+		"repoName": "DirtyCowRepo",
+		"repoIcon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/AD906989-2BFF-4A5B-A0CA-542167C66B50.png"
 	},
 	"Tweaked": [{
 		"name": "Santander",
@@ -19,7 +19,7 @@
 		"name": "iPogo",
 		"version": "0.257.1",
 		"down": "https://ipogo.app/download/ipogo-2.8.0.ipa",
-		"category": "Tweaked Apps",
+		"category": "Test",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
