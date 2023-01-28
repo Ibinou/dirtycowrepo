@@ -74,10 +74,7 @@
 			"down": "https://github.com/straight-tamago/NoCameraSound/releases/download/5.8/NoCameraSound-5.8.ipa",
 			"dev": "Straight-tamago",
 			"category": "Tweak",
-			"description": "Disable the camera sound",
-			"screenshots": [
-				"https://theodyssey.dev/assets/images/iphones.png",
-				"https://theodyssey.dev/assets/images/iphone.png"
+			"description": "Disable the camera sound"
 			],
 			"contact": [
 				"https://theodyssey.dev/",
