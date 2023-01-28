@@ -126,12 +126,12 @@
 		"description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. iOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. If you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
 		"bundleID": "net.nerd.iNDS"
 	}, {
-		"name": "CarTube",
-		"version": "1",
-		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
-		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+		"name": "CarMacDirtyCow",
+		"version": "1.0.1",
+		"icon": "https://raw.githubusercontent.com/xqf400/CarMacDirtyCow/main/Images/icon512.png",
+		"down": "https://github.com/xqf400/CarMacDirtyCow/releases/download/v1.0.1/CarMacDirtyCow.ipa",
 		"category": "CarPlay",
-		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
+		"description": "Use an image as wallpaper for CarPlay.",
 		"bundleID": "com.ianclawson.DeltaPacEdition"
 	}]
 }
