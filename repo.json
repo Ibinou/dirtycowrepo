@@ -39,7 +39,7 @@
 		"name": "WDBFontOverwrite",
 		"version": "1.10.5",
 		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
-		"down": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.5/WDBFontOverwrite.ipa",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/WDBFontOverwrite.ipa?raw=true",
 		"category": "Tweak",
 	}, {
 		"name": "TrollLock (reborn)",
