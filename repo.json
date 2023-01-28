@@ -93,11 +93,10 @@
 		{
 			"name": "DirtyCowApp",
 			"version": "8.0.2",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
+			"icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/862FF1E7-C4BC-46E2-A280-87C4772663FA.png",
 			"down": "https://github.com/Ibinou/reposcarlet/blob/main/dirtycowapp.ipa?raw=true",
-			"dev": "unc0ver-Team",
-			"category": "Tweak",
-			"bundleID": "science.xnu.undecimus",
+			"dev": "Mineek",
+			"category": "All in one",
 			"banner": "https://cdn.osxdaily.com/wp-content/uploads/2020/05/uncover-jailbreak-610x208.jpg",
 			"screenshots": [
 				"https://resources.usescarlet.com/Screenshots/unc0verpg1.png",
