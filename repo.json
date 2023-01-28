@@ -38,6 +38,7 @@
 	}, {
 		"name": "WDBFontOverwrite",
 		"version": "1.10.5",
+		"description": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
 		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
 		"down": "https://github.com/Ibinou/reposcarlet/blob/main/WDBFontOverwrite.ipa?raw=true",
 		"category": "Tweak",
