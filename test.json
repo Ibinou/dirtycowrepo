@@ -114,8 +114,7 @@
 		"name":"Little Cow",
 		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
 		"version":"2.20.3",
-		"appstore": "com.miniclip.agar.io",
-		"bundleID": "com.miniclip.agar.io",
+                "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/094FAD48-78C6-4002-BDC0-022B598523EE.jpeg",
 		"category": "Device SubType"
 	}],
 	"Emulators": [{
