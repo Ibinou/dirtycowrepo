@@ -48,19 +48,16 @@
 	}, {
 		"name": "TrollLock (reborn)",
 		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
+		"icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/1D9500C6-9CA4-4BE7-9C03-B86303711D3A.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
 		"category": "Tweak",
- "debs": [
-			"https://usescarlet.com/debs/videostar.dylib"
-		],
 		"bundleID": "com.frontierdesign.videostar",
 		"appstore": "com.frontierdesign.videostar"
 	}],
 	"Jailbreaks": [{
 			"name": "PrefsChanger",
 			"version": "1.1.6",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+			"icon": "https://senumy.com/wp-content/uploads/2023/01/PrefsChanger.jpg",
 			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Tweak",
@@ -78,7 +75,7 @@
 		{
 			"name": "NoCameraSound",
 			"version": "1.4.2",
-			"icon": "https://theodyssey.dev/assets/images/icon.png",
+			"icon": "https://raw.githubusercontent.com/straight-tamago/NoCameraSound/main/NoCameraSound/NoCameraSound/Assets.xcassets/AppIcon.appiconset/1024.png",
 			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Tweak",
@@ -124,10 +121,10 @@
 	"Emulators": [{
 		"name": "DynamicCow",
 		"version": "1.10.8",
-		"icon": "https://iosninja.io/img/ipas/inds.png",
+		"icon": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/dynamiccowiconpreview.png",
 		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
 		"category": "Device SubType",
-		"description": "tete",
+		"description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. iOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. If you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
 		"bundleID": "net.nerd.iNDS"
 	}, {
 		"name": "CarTube",
