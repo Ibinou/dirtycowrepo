@@ -1,10 +1,10 @@
 {
 	"META": {
 		"repoName": "MacDirtyCow Repo",
-		"repoIcon": "https://usescarlet.com/favicon.png"
+		"repoIcon": "https://github.com/Ibinou/reposcarlet/blob/main/AD906989-2BFF-4A5B-A0CA-542167C66B50.png?raw=true"
 	},
-	"Tweaked": [{
-		"name": "uYou",
+	"MacDirtyCow Apps": [{
+		"name": "Cowabunga",
 		"version": "18.01.6",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
 		"category": "Tweaked Apps",
@@ -16,7 +16,7 @@
 			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
-		"name": "iPogo",
+		"name": "FileSwitcherX",
 		"version": "0.257.1",
 		"down": "https://ipogo.app/download/ipogo-2.8.0.ipa",
 		"category": "Tweaked Apps",
@@ -32,6 +32,14 @@
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
+	}, {
+		"name": "Instagram Rhino",
+		"version": "187.0",
+		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
+		"category": "Tweaked Apps",
+		"bundleID": "com.rhino.InstagramApp",
+		"appstore": "com.burbn.instagram"
 	}, {
 		"name": "Sposify++",
 		"version": "8.6.42",
