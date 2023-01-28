@@ -47,8 +47,7 @@
 		"icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/1D9500C6-9CA4-4BE7-9C03-B86303711D3A.png",
 		"down": "https://github.com/haxi0/TrollLock-Reborn/releases/download/1.1/TrollLock-1.1.ipa",
 		"category": "Tweak",
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
+		"dev": "haxi0"
 	}],
 	"Jailbreaks": [{
 			"name": "PrefsChanger",
