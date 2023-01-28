@@ -24,6 +24,7 @@
 	}, {
 		"name": "FileSwitcherX",
 		"version": "1.7",
+		"icon": "https://raw.githubusercontent.com/straight-tamago/FileSwitcherX/main/FileSwitcherX/Assets.xcassets/AppIcon.appiconset/100.png", 
 		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
 		"category": "All in one",
 		"description": "MaCirtyCow tweaks toolbox",
