@@ -17,39 +17,34 @@
 	}, {
 		"name": "Cowabunga",
 		"version": "0.257.1",
-		"down": "https://ipogo.app/download/ipogo-2.8.0.ipa",
+		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v7.0.1/Cowabunga.ipa",
 		"category": "All in one",
-		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
                 "icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/Cowabunga.png", 
 	}, {
 		"name": "FileSwitcherX",
-		"version": "0.257.1",
-		"down": "https://www.spooferx.app/ipa/SpooferPro-0.257.1-0.122.ipa",
+		"version": "1.7",
+		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
 		"category": "All in one",
-		"changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
-		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
+		"description": "MaCirtyCow tweaks toolbox",
 	}, {
 		"name": "CCEnabler",
 		"version": "8.6.42",
 		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
 		"category": "Tweak",
-		"description": "Sposify and Spotilife tweak merged into one app",
-		"bundleID": "com.spotify.client",
-		"appstore": "com.spotify.client",
+		"description": "Disable and enable modules in the Control Center.",
                 "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",   
 	}, {
 		"name": "WDBFontOverwrite",
-		"version": "187.0",
+		"version": "1.10.5",
 		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
+		"down": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.5/WDBFontOverwrite.ipa",
 		"category": "Tweak",
 	}, {
 		"name": "TrollLock (reborn)",
-		"version": "8.3.2",
+		"version": "1.1",
 		"icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/1D9500C6-9CA4-4BE7-9C03-B86303711D3A.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
+		"down": "https://github.com/haxi0/TrollLock-Reborn/releases/download/1.1/TrollLock-1.1.ipa",
 		"category": "Tweak",
 		"bundleID": "com.frontierdesign.videostar",
 		"appstore": "com.frontierdesign.videostar"
@@ -59,28 +54,26 @@
 			"version": "1.1.6",
 			"icon": "https://senumy.com/wp-content/uploads/2023/01/PrefsChanger.jpg",
 			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-			"dev": "Odyssey-Team",
+			"dev": "AppInstalleriOS",
 			"category": "Tweak",
-			"description": "Time to get amped.",
-			"bundleID": "com.odysseyteam.taurine",
+			"description": "Enable supervised mode, LockScreen Footnote, debug settings etc.",
 			"screenshots": [
 				"https://taurine.app/assets/images/iphones.png",
 				"https://taurine.app/assets/images/iphone.png"
 			],
 			"contact": [
-				"https://taurine.app/",
-				"https://twitter.com/OdysseyTeam_"
+				"https://appinstallerios.com/",
+				"https://twitter.com/AppInstalleriOS"
 			]
 		},
 		{
 			"name": "NoCameraSound",
-			"version": "1.4.2",
+			"version": "5.8",
 			"icon": "https://raw.githubusercontent.com/straight-tamago/NoCameraSound/main/NoCameraSound/NoCameraSound/Assets.xcassets/AppIcon.appiconset/1024.png",
-			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
-			"dev": "Odyssey-Team",
+			"down": "https://github.com/straight-tamago/NoCameraSound/releases/download/5.8/NoCameraSound-5.8.ipa",
+			"dev": "Straight-tamago",
 			"category": "Tweak",
-			"bundleID": "org.coolstar.odyssey",
-			"description": "A new jailbreak for a new era.",
+			"description": "Disable the camera sound",
 			"screenshots": [
 				"https://theodyssey.dev/assets/images/iphones.png",
 				"https://theodyssey.dev/assets/images/iphone.png"
@@ -92,12 +85,11 @@
 		},
 		{
 			"name": "DirtyCowApp",
-			"version": "8.0.2",
+			"version": "1.0",
 			"icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/862FF1E7-C4BC-46E2-A280-87C4772663FA.png",
 			"down": "https://github.com/Ibinou/reposcarlet/blob/main/dirtycowapp.ipa?raw=true",
 			"dev": "Mineek",
 			"category": "All in one",
-			"banner": "https://cdn.osxdaily.com/wp-content/uploads/2020/05/uncover-jailbreak-610x208.jpg",
 			"screenshots": [
 				"https://resources.usescarlet.com/Screenshots/unc0verpg1.png",
 				"https://resources.usescarlet.com/Screenshots/unc0verpg2.png",
@@ -111,8 +103,8 @@
 	],
 	"Hacked Games": [{
 		"name":"Little Cow",
-		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
-		"version":"2.20.3",
+		"down": "https://github.com/Ibinou/ipanocodehub/blob/main/LittleCow_1.2.ipa?raw=true",
+		"version":"1.2",
                 "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/094FAD48-78C6-4002-BDC0-022B598523EE.jpeg",
 		"category": "Device SubType"
 	}],
@@ -120,10 +112,10 @@
 		"name": "DynamicCow",
 		"version": "1.10.8",
 		"icon": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/dynamiccowiconpreview.png",
-		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+		"down": "https://github.com/matteozappia/DynamicCow/releases/download/1.0/DynamicCow.ipa",
 		"category": "Device SubType",
 		"description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. iOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. If you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
-		"bundleID": "net.nerd.iNDS"
+		"bundleID": "com.34306.little15"
 	}, {
 		"name": "CarMacDirtyCow",
 		"version": "1.0.1",
@@ -131,6 +123,6 @@
 		"down": "https://github.com/xqf400/CarMacDirtyCow/releases/download/v1.0.1/CarMacDirtyCow.ipa",
 		"category": "CarPlay",
 		"description": "Use an image as wallpaper for CarPlay.",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
+		"bundleID": "com.xqf.carmacdirtycow"
 	}]
 }
