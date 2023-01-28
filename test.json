@@ -16,7 +16,7 @@
 			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
-		"name": "iPogo",
+		"name": "Cowabunga",
 		"version": "0.257.1",
 		"down": "https://ipogo.app/download/ipogo-2.8.0.ipa",
 		"category": "All in one",
@@ -24,7 +24,7 @@
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
-		"name": "SpooferX",
+		"name": "FileSwitcherX",
 		"version": "0.257.1",
 		"down": "https://www.spooferx.app/ipa/SpooferPro-0.257.1-0.122.ipa",
 		"category": "All in one",
@@ -33,7 +33,7 @@
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
-		"name": "Sposify++",
+		"name": "CCEnabler",
 		"version": "8.6.42",
 		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
 		"category": "Tweak",
@@ -47,7 +47,7 @@
 		],
 		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
 	}, {
-		"name": "Instagram Rhino",
+		"name": "WDBFontOverwrite",
 		"version": "187.0",
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
@@ -55,11 +55,11 @@
 		"bundleID": "com.rhino.InstagramApp",
 		"appstore": "com.burbn.instagram"
 	}, {
-		"name": "VideoStar",
+		"name": "TrollLock (reborn)",
 		"version": "8.3.2",
 		"icon": "https://usescarlet.com/icons/videostar.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
-		"category": "Tweaked Apps",
+		"category": "Tweak",
  "debs": [
 			"https://usescarlet.com/debs/videostar.dylib"
 		],
@@ -67,7 +67,7 @@
 		"appstore": "com.frontierdesign.videostar"
 	}],
 	"Jailbreaks": [{
-			"name": "Taurine",
+			"name": "PrefsChanger",
 			"version": "1.1.6",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
 			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
@@ -85,7 +85,7 @@
 			]
 		},
 		{
-			"name": "Odyssey",
+			"name": "NoCameraSound",
 			"version": "1.4.2",
 			"icon": "https://theodyssey.dev/assets/images/icon.png",
 			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
@@ -123,7 +123,7 @@
 		}
 	],
 	"Hacked Games": [{
-		"name":"Agar.io",
+		"name":"Little Cow",
 		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
 		"version":"2.20.3",
 		"appstore": "com.miniclip.agar.io",
@@ -131,7 +131,7 @@
 		"category": "Device SubType"
 	}],
 	"Emulators": [{
-		"name": "iNDS",
+		"name": "DynamicCow",
 		"version": "1.10.8",
 		"icon": "https://iosninja.io/img/ipas/inds.png",
 		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
@@ -139,7 +139,7 @@
 		"description": "tete",
 		"bundleID": "net.nerd.iNDS"
 	}, {
-		"name": "Delta iPac",
+		"name": "CarTube",
 		"version": "1",
 		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
 		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
