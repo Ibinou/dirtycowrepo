@@ -6,6 +6,7 @@
 	"Tweaked": [{
 		"name": "Santander",
 		"version": "18.01.6",
+		"dev": "minek"
 		"down": "https://github.com/pwnd2e/SantanderMacDirtyCow/releases/download/1.0/Santander.ipa",
 		"category": "File Manager",
 		"description": "A new, enhanced File Manager for iOS devices. You can navigate and modify a lot of system files using this app.",
@@ -17,6 +18,7 @@
 	}, {
 		"name": "Cowabunga",
 		"version": "0.257.1",
+		"dev": "leminlimez",
 		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v7.0.1/Cowabunga.ipa",
 		"category": "All in one",
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
@@ -24,6 +26,7 @@
 	}, {
 		"name": "FileSwitcherX",
 		"version": "1.7",
+		"dev": "Straight-tamago",
 		"icon": "https://raw.githubusercontent.com/straight-tamago/FileSwitcherX/main/FileSwitcherX/Assets.xcassets/AppIcon.appiconset/100.png", 
 		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
 		"category": "All in one",
@@ -31,6 +34,7 @@
 	}, {
 		"name": "CCEnabler",
 		"version": "8.6.42",
+		"dev": "AppInstalleriOS"
 		"down": "https://github.com/Ibinou/reposcarlet/blob/main/CCEnabler%20(2).ipa?raw=true",
 		"category": "Tweak",
 		"description": "Disable and enable modules in the Control Center.",
@@ -38,6 +42,7 @@
 	}, {
 		"name": "WDBFontOverwrite",
 		"version": "1.10.5",
+		"dev": "ginsudev"
 		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
 		"down": "https://github.com/Ibinou/reposcarlet/blob/main/WDBFontOverwrite.ipa?raw=true",
 		"category": "Tweak",
@@ -47,8 +52,7 @@
 		"icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/1D9500C6-9CA4-4BE7-9C03-B86303711D3A.png",
 		"down": "https://github.com/haxi0/TrollLock-Reborn/releases/download/1.1/TrollLock-1.1.ipa",
 		"category": "Tweak",
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
+		"dev": "Haxi0"
 	}],
 	"Jailbreaks": [{
 			"name": "PrefsChanger",
@@ -114,6 +118,7 @@
 	"Emulators": [{
 		"name": "DynamicCow",
 		"version": "1.10.8",
+		"dev": "matteozappia"
 		"icon": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/dynamiccowiconpreview.png",
 		"down": "https://github.com/matteozappia/DynamicCow/releases/download/1.0/DynamicCow.ipa",
 		"category": "Device SubType",
