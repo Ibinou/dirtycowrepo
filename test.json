@@ -9,8 +9,7 @@
 		"down": "https://github.com/pwnd2e/SantanderMacDirtyCow/releases/download/1.0/Santander.ipa",
 		"category": "File Manager",
 		"description": "A new, enhanced File Manager for iOS devices. You can navigate and modify a lot of system files using this app.",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
+                "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/5658B2AB-C7E7-4FFB-84E7-7599F0691DF1.png",
 		"contact": {
 			"web": "https://repo.twickd.com",
 			"twitter": "https://twitter.com/twickdrepo"
