@@ -125,6 +125,10 @@
 		"category": "Device SubType",
 		"description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. iOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. If you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
 		"bundleID": "net.nerd.iNDS"
+		"screenshots": [
+				"https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/IMG_2393.PNG",
+				"https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/IMG_2391.PNG"
+			],
 	}, {
 		"name": "CarTube",
 		"version": "1",
