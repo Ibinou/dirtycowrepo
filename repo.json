@@ -86,6 +86,7 @@
 		{
 			"name": "DirtyCowApp",
 			"version": "1.0",
+			"description": "Tweak toolbox.",
 			"icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/862FF1E7-C4BC-46E2-A280-87C4772663FA.png",
 			"down": "https://github.com/Ibinou/reposcarlet/blob/main/dirtycowapp.ipa?raw=true",
 			"dev": "Mineek",
@@ -105,6 +106,7 @@
 		"name":"Little Cow",
 		"down": "https://github.com/Ibinou/ipanocodehub/blob/main/LittleCow_1.2.ipa?raw=true",
 		"version":"1.2",
+		"description": "Get iPhone X gesture on non-supproted iPhone.",
                 "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/094FAD48-78C6-4002-BDC0-022B598523EE.jpeg",
 		"category": "Device SubType"
 	}],
