@@ -22,12 +22,22 @@
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
                 "icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/Cowabunga.png", 
 	}, {
+		"name": "ResSet16",
+		"version": "1.1.1",
+		"icon": "https://raw.githubusercontent.com/straight-tamago/FileSwitcherX/main/FileSwitcherX/Assets.xcassets/AppIcon.appiconset/100.png", 
+		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
+		"category": "All in one",
+		"description": "MaCirtyCow tweaks toolbox",
+
+png", 
+	}, {
 		"name": "FileSwitcherX",
 		"version": "1.7",
 		"icon": "https://raw.githubusercontent.com/straight-tamago/FileSwitcherX/main/FileSwitcherX/Assets.xcassets/AppIcon.appiconset/100.png", 
 		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
 		"category": "All in one",
 		"description": "MaCirtyCow tweaks toolbox",
+
 	}, {
 		"name": "CCEnabler",
 		"version": "8.6.42",
