@@ -25,9 +25,9 @@
 		"name": "ResSet16",
 		"version": "1.1.1",
 		"icon": "https://github.com/Ibinou/dirtycowrepo/blob/main/icons/1035FB10-EC7C-42A4-A59F-F267152E0929.png?raw=true", 
-		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
-		"category": "All in one",
-		"description": "MaCirtyCow tweaks toolbox",
+		"down": "https://github.com/Ibinou/dirtycowrepo/blob/main/ResSet16.ipa?raw=true",
+		"category": "Tweak",
+		"description": "Change your iDevice's resolution 100% safely.",
 	}, {
 		"name": "FileSwitcherX",
 		"version": "1.7",
