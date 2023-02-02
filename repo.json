@@ -45,11 +45,11 @@
 	}, {
 		"name": "Badge Color",
 		"version": "1.0",
-		"down": "https://github.com/Ibinou/reposcarlet/blob/main/CCEnabler%20(2).ipa?raw=true",
+		"down": "https://github.com/Ibinou/dirtycowrepo/blob/main/Badge%20Color.ipa?raw=true",
 		"category": "Tweak",
 		"dev": "AppInstalleriOS",
 		"description": "Customize as you want the notifications app badges.",
-                "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",
+                "icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/862FF1E7-C4BC-46E2-A280-87C4772663FA.png",
 	}, {
 		"name": "WDBFontOverwrite",
 		"version": "1.10.5",
