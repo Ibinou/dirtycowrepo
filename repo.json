@@ -41,7 +41,15 @@
 		"down": "https://github.com/Ibinou/reposcarlet/blob/main/CCEnabler%20(2).ipa?raw=true",
 		"category": "Tweak",
 		"description": "Disable and enable modules in the Control Center.",
-                "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",   
+                "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",
+	}, {
+		"name": "Badge Color",
+		"version": "1.0",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/CCEnabler%20(2).ipa?raw=true",
+		"category": "Tweak",
+		"dev": "AppInstalleriOS",
+		"description": "Customize as you want the notifications app badges.",
+                "icon": "https://i0.wp.com/www.appletips.nl/wp-content/uploads/2013/09/control-center-logo-7-retina.png?resize=135%2C135&ssl=1",
 	}, {
 		"name": "WDBFontOverwrite",
 		"version": "1.10.5",
