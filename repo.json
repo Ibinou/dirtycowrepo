@@ -57,6 +57,16 @@
 		"icon": "https://raw.githubusercontent.com/ginsudev/WDBFontOverwrite/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png",
 		"down": "https://github.com/Ibinou/reposcarlet/blob/main/WDBFontOverwrite.ipa?raw=true",
 		"category": "Tweak",
+
+	}, {
+		"name": "Blacklist",
+		"version": "1.0",
+                "dev": "AppInstalleriOS",
+		"description": "Unblacklist your iDevice using this app.",
+		"icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/862FF1E7-C4BC-46E2-A280-87C4772663FA.png",
+		"down": "https://github.com/Ibinou/reposcarlet/blob/main/WDBFontOverwrite.ipa?raw=true",
+		"category": "Tweak",
+
 	}, {
 		"name": "TrollLock (reborn)",
 		"version": "1.1",
