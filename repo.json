@@ -127,9 +127,9 @@
 	}],
 	"Emulators": [{
 		"name": "DynamicCow",
-		"version": "1.10.8",
+		"version": "1.1",
 		"icon": "https://raw.githubusercontent.com/matteozappia/DynamicCow/main/Images/dynamiccowiconpreview.png",
-		"down": "https://github.com/matteozappia/DynamicCow/releases/download/1.0/DynamicCow.ipa",
+		"down": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
 		"category": "Device SubType",
 		"description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. iOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. If you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
 		"bundleID": "com.34306.little15"
