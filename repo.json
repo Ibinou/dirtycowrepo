@@ -31,10 +31,19 @@
 	}, {
 		"name": "FileSwitcherX",
 		"version": "1.7",
+		"dev": "straight-tamago",
 		"icon": "https://raw.githubusercontent.com/straight-tamago/FileSwitcherX/main/FileSwitcherX/Assets.xcassets/AppIcon.appiconset/100.png", 
 		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
 		"category": "All in one",
-		"description": "MaCirtyCow tweaks toolbox", 
+		"description": "MaCirtyCow tweaks toolbox",
+	}, {
+		"name": "FileSwitcherPro",
+		"version": "1.2",
+		"dev": "straight-tamago",
+		"icon": "https://user-images.githubusercontent.com/121408851/215506331-a7fe85f7-7f20-4711-8b7b-54f95e31bbe7.jpg", 
+		"down": "https://github.com/straight-tamago/FileSwitcherX/releases/download/1.7-Final/FileSwitcherX-1.7.ipa",
+		"category": "All in one",
+		"description": "MaCirtyCow tweaks toolbox. It's FileswitcherX but better.",
 	}, {
 		"name": "CCEnabler",
 		"version": "8.6.42",
