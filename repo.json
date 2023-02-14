@@ -16,9 +16,10 @@
 		}
 	}, {
 		"name": "Cowabunga",
-		"version": "0.257.1",
-		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v7.0.1/Cowabunga.ipa",
+		"version": "8.0.3",
+		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.3/Cowabunga.ipa",
 		"category": "All in one",
+                "changelog": "Fixed crash when opening app with wifi",
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
                 "icon": "https://raw.githubusercontent.com/Ibinou/reposcarlet/main/icons/Cowabunga.png", 
 	}, {
